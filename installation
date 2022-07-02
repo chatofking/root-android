@@ -1,4 +1,4 @@
-# check usb
+# fastboot mode
 adb devices
 adb reboot fastboot
 fastboot devices
