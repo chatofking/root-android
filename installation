@@ -1,2 +1,7 @@
+# check usb
+adb devices
+adb reboot fastboot
+fastboot devices
+# install
 adb pull /storage/emulated/0/Download/magisk_patched_[random_strings].img
 fastboot flash boot /path/to/magisk_patched.img
