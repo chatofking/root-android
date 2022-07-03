@@ -1,3 +1,5 @@
+# error: device offline
+adb kill-server
 # fastboot mode
 adb devices
 adb reboot fastboot
