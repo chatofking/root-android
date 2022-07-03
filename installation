@@ -12,3 +12,4 @@ fastboot flash boot D:\platform-tools/magisk_patched-25100_1VYTU.img
 # Download is not allowed on locked devices
 # unlock 
 fastboot oem unlock
+# Unable to open fastboot HAL
