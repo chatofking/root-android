@@ -8,4 +8,4 @@ fastboot devices
 adb pull /storage/emulated/0/Download/magisk_patched_[random_strings].img
 # How to Fix the Fastboot Error No Such File or Directory
 Drag and drop the twrp.img file into the Command Prompt instead of typing out the filename
-fastboot flash boot D:\platform-tools/magisk_patched.img
+fastboot flash boot D:\platform-tools/magisk_patched-25100_1VYTU.img
