@@ -10,6 +10,6 @@ adb pull /storage/emulated/0/Download/magisk_patched_[random_strings].img
 Drag and drop the twrp.img file into the Command Prompt instead of typing out the filename
 fastboot flash boot boot.img
 # Download is not allowed on locked devices
-# unlock 
-fastboot oem unlock
+# unlock 2015 +
+fastboot flashing unlock
 # Unable to open fastboot HAL
